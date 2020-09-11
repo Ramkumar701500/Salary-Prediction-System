@@ -8,7 +8,9 @@ It trains the Machine Learning Model by accepting a CSV file that contains a hug
 
 And then it predicts the future salary of the employees by using the Machine Learning Process.  
 
-Concept Used:- Machine Learning. Language Used:- Python.
+Concept Used:- Machine Learning. 
+
+Language Used:- Python.
 
 To run the program, simply download it and then run it on your system.
 
