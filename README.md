@@ -1,0 +1,2 @@
+# Salary-Prediction-System
+Salary Prediction System is a Desktop Application which is developed by using Machine Learning Concept.  It trains the Machine Learning Model by accepting a CSV file that contains a huge data set of Salaries and Experiences. And then it predicts the future salary of the employees by using the Machine Learning Process.  Concept Used:- Machine Learning. Language Used:- Python.
